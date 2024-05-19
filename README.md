@@ -2,6 +2,8 @@
 
 NOTE: All values obtained are directly substituted to avoid shadowing.
 
+Laboratory Activity number 3
+
 NUMBER 1
 
 Lagaya, Rod Joshua B.
