@@ -87,6 +87,8 @@ Original Block Diagram
 Valenton, Jezryl James F.
 
 Reduced 
+
+
 ![441257622_1088525732209534_1801076480502269595_n](https://github.com/Vincent-Alcantara/CSE_BlockDiagramAlgebra_ME_4203_Group6_2024/assets/161010463/5a7d4ca5-d65e-4d0f-a97d-81f27cfa41f9)
 
 
