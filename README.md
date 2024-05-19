@@ -4,11 +4,11 @@ NOTE: All values obtained are directly substituted to avoid shadowing.
 
 Laboratory Activity number 3 
 
-NUMBER 1
+NUMBER 1 
 
-Lagaya, Rod Joshua B.
+Lagaya, Rod Joshua B. 
 
-Manual Computation
+Manual Computation 
 
 For Block Diagram
 
