@@ -86,6 +86,11 @@ Original Block Diagram
 ![image](https://github.com/Vincent-Alcantara/CSE_BlockDiagramAlgebra_ME_4203_Group6_2024/assets/161361767/36c5e499-d3da-4581-8388-d22cb9ab981c)
 
 
+Sinusoidal Source
+
+![image](https://github.com/Vincent-Alcantara/CSE_BlockDiagramAlgebra_ME_4203_Group6_2024/assets/161361767/36c5e499-d3da-4581-8388-d22cb9ab981c)
+
+
 Valenton, Jezryl James F.
 
 Reduced 
