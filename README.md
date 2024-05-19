@@ -67,4 +67,5 @@ Original Block Diagram
 
 
 Sinusoidal Source
+
 ![image](https://github.com/Vincent-Alcantara/CSE_BlockDiagramAlgebra_ME_4203_Group6_2024/assets/161361767/effcbe46-665d-4397-935e-6b67dcb3bd6c)
