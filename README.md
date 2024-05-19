@@ -61,8 +61,10 @@ Step Response
 
 Original Block Diagram
 
-![image](https://github.com/Vincent-Alcantara/CSE_BlockDiagramAlgebra_ME_4203_Group6_2024/assets/161361767/b1eccbe5-9221-45e7-96fb-83e465600f55)
+![image](https://github.com/Vincent-Alcantara/CSE_BlockDiagramAlgebra_ME_4203_Group6_2024/assets/161361767/c9bb39df-d166-4fab-b536-c861a972d5c7)
+
+![image](https://github.com/Vincent-Alcantara/CSE_BlockDiagramAlgebra_ME_4203_Group6_2024/assets/161361767/36c5e499-d3da-4581-8388-d22cb9ab981c)
 
 
 Sinusoidal Source
-
+![image](https://github.com/Vincent-Alcantara/CSE_BlockDiagramAlgebra_ME_4203_Group6_2024/assets/161361767/effcbe46-665d-4397-935e-6b67dcb3bd6c)
