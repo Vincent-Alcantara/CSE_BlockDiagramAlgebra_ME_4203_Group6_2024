@@ -74,19 +74,19 @@ Manual Computation
 ![436749232_421615207342441_1537487648116477754_n](https://github.com/Vincent-Alcantara/CSE_BlockDiagramAlgebra_ME_4203_Group6_2024/assets/161010463/b993d498-1a03-4f04-b822-fd8a1f4024cc)
 
 
-Albo, Jeff Leonard C.
-
-Number 2
-
-Step Response
+Albo, Jeff Leonard C.  
+  
+Number 2  
+  
+Step Response  
 
 ![image](https://github.com/Vincent-Alcantara/CSE_BlockDiagramAlgebra_ME_4203_Group6_2024/assets/161361767/d61cf033-fb3e-4166-a3d3-2999f824b09d)
 
-
-Original Block Diagram
-
+  
+Original Block Diagram  
+  
 ![image](https://github.com/Vincent-Alcantara/CSE_BlockDiagramAlgebra_ME_4203_Group6_2024/assets/161361767/c9bb39df-d166-4fab-b536-c861a972d5c7)
-
+   
 ![image](https://github.com/Vincent-Alcantara/CSE_BlockDiagramAlgebra_ME_4203_Group6_2024/assets/161361767/36c5e499-d3da-4581-8388-d22cb9ab981c)
 
 
