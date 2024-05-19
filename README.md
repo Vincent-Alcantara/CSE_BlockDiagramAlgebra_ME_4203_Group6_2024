@@ -74,6 +74,7 @@ Manual Computation
 
 Albo, Jeff Leonard C.
 
+Number 2
 
 Step Response
 
@@ -89,7 +90,7 @@ Original Block Diagram
 
 Sinusoidal Source
 
-![image](https://github.com/Vincent-Alcantara/CSE_BlockDiagramAlgebra_ME_4203_Group6_2024/assets/161361767/36c5e499-d3da-4581-8388-d22cb9ab981c)
+![image](https://github.com/Vincent-Alcantara/CSE_BlockDiagramAlgebra_ME_4203_Group6_2024/assets/161361767/4c3c4f22-edcf-4d46-88f5-3c691e39c7f0)
 
 
 Valenton, Jezryl James F.
