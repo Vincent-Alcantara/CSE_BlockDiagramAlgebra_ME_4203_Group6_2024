@@ -39,10 +39,12 @@ Sinusoidal source
 Lagaya, Rod Joshua B.
 
 Reduced Block
+![image](https://github.com/Vincent-Alcantara/CSE_BlockDiagramAlgebra_ME_4203_Group6_2024/assets/160557061/b8e8befd-f563-4392-afc1-bc99938c5e93)
+
 
 ![image](https://github.com/Vincent-Alcantara/CSE_BlockDiagramAlgebra_ME_4203_Group6_2024/assets/160557061/abfb2c32-7c5e-433c-b21a-366486dda847)
 
-![image](https://github.com/Vincent-Alcantara/CSE_BlockDiagramAlgebra_ME_4203_Group6_2024/assets/160557061/65747b5b-7568-4960-b167-4a6092330966)
+
 
 Sinusoidal source
 
