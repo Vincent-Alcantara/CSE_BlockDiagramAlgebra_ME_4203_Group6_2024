@@ -50,9 +50,20 @@ Sinusoidal source
 
 
 
-Albo, Jeff Leonard C. 
 
 Number 2
+
+Manual Computation
+
+  For Block Diagram
+
+![436723571_1138897343996167_3769933817329719452_n](https://github.com/Vincent-Alcantara/CSE_BlockDiagramAlgebra_ME_4203_Group6_2024/assets/161010463/245f43ea-09b7-4a5f-a743-b676e01fe660)
+
+
+  For Block Diagram Algebra
+
+![436749232_421615207342441_1537487648116477754_n](https://github.com/Vincent-Alcantara/CSE_BlockDiagramAlgebra_ME_4203_Group6_2024/assets/161010463/b993d498-1a03-4f04-b822-fd8a1f4024cc)
+
 
 Step Response
 
@@ -65,7 +76,10 @@ Original Block Diagram
 
 ![image](https://github.com/Vincent-Alcantara/CSE_BlockDiagramAlgebra_ME_4203_Group6_2024/assets/161361767/36c5e499-d3da-4581-8388-d22cb9ab981c)
 
+Reduced 
+
 
 Sinusoidal Source
 
-![image](https://github.com/Vincent-Alcantara/CSE_BlockDiagramAlgebra_ME_4203_Group6_2024/assets/161361767/effcbe46-665d-4397-935e-6b67dcb3bd6c)
+![440765107_956694772588760_4198000300884082180_n](https://github.com/Vincent-Alcantara/CSE_BlockDiagramAlgebra_ME_4203_Group6_2024/assets/161010463/006364d2-e7c5-4763-8ce5-100a413bf086)
+
