@@ -93,21 +93,21 @@ Original Block Diagram
 Sinusoidal Source  
 
 ![image](https://github.com/Vincent-Alcantara/CSE_BlockDiagramAlgebra_ME_4203_Group6_2024/assets/161361767/4c3c4f22-edcf-4d46-88f5-3c691e39c7f0)
- 
+   
  
 Valenton, Jezryl James F.
- 
+   
 Reduced  
-
-
+  
+  
 ![441257622_1088525732209534_1801076480502269595_n](https://github.com/Vincent-Alcantara/CSE_BlockDiagramAlgebra_ME_4203_Group6_2024/assets/161010463/5a7d4ca5-d65e-4d0f-a97d-81f27cfa41f9)
-
-
+  
+  
 ![440765107_956694772588760_4198000300884082180_n](https://github.com/Vincent-Alcantara/CSE_BlockDiagramAlgebra_ME_4203_Group6_2024/assets/161010463/07a76961-95c4-4b4b-a836-15ffcffd9bce)
+ 
+   
 
-
-
-Sinusoidal Source
-
+Sinusoidal Source  
+  
 ![440765107_956694772588760_4198000300884082180_n](https://github.com/Vincent-Alcantara/CSE_BlockDiagramAlgebra_ME_4203_Group6_2024/assets/161010463/006364d2-e7c5-4763-8ce5-100a413bf086)
 
