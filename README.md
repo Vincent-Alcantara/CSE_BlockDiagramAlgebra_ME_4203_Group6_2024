@@ -2,29 +2,29 @@
 
 NOTE: All values obtained are directly substituted to avoid shadowing.
 
-Laboratory Activity number 3    
-
-NUMBER 1    
-
-Lagaya, Rod Joshua B.    
-
-Manual Computation    
-
-For Block Diagram   
-
+Laboratory Activity number 3      
+  
+NUMBER 1      
+  
+Lagaya, Rod Joshua B.      
+  
+Manual Computation      
+  
+For Block Diagram     
+  
 ![image](https://github.com/Vincent-Alcantara/CSE_BlockDiagramAlgebra_ME_4203_Group6_2024/assets/160557061/00e32d11-b168-428c-b39f-78526a1fbe0a)
-
-For Block Diagram Algebra   
-
+  
+For Block Diagram Algebra     
+  
 ![image](https://github.com/Vincent-Alcantara/CSE_BlockDiagramAlgebra_ME_4203_Group6_2024/assets/160557061/2b0f6f1c-11f6-4708-a6de-201c3e98c86d)
 
 ![image](https://github.com/Vincent-Alcantara/CSE_BlockDiagramAlgebra_ME_4203_Group6_2024/assets/160557061/f5e8b399-7758-4fbf-9a49-0c2e8aa936e8)
 
 
-Alcantara, Vincent L.   
-
-MATLAB Step Response   
-
+Alcantara, Vincent L.     
+  
+MATLAB Step Response     
+  
 ![image](https://github.com/Vincent-Alcantara/CSE_BlockDiagramAlgebra_ME_4203_Group6_2024/assets/160556975/6e76d8fa-e22c-4623-b2fe-fcabcf96c0d6)
 
 
